@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormApp1", "WinFormApp1\WinFormApp1.csproj", "{988D21C9-BD02-40DE-B74B-7F3407A4AFE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CBS", "CBS\CBS.csproj", "{04C8B879-165D-4A6D-AF00-801D6477A955}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CBS", "CBS\CBS.csproj", "{042BC0A2-5B59-43E1-A739-FF27E278DD74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{988D21C9-BD02-40DE-B74B-7F3407A4AFE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{988D21C9-BD02-40DE-B74B-7F3407A4AFE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{988D21C9-BD02-40DE-B74B-7F3407A4AFE3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{04C8B879-165D-4A6D-AF00-801D6477A955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{04C8B879-165D-4A6D-AF00-801D6477A955}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{04C8B879-165D-4A6D-AF00-801D6477A955}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{04C8B879-165D-4A6D-AF00-801D6477A955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042BC0A2-5B59-43E1-A739-FF27E278DD74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042BC0A2-5B59-43E1-A739-FF27E278DD74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042BC0A2-5B59-43E1-A739-FF27E278DD74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042BC0A2-5B59-43E1-A739-FF27E278DD74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
