@@ -79,11 +79,11 @@ namespace CBS
         private void InitializeMap()
         {
             map.DragButton = MouseButtons.Left;
-            map.MapProvider = GMapProviders.GoogleMap;
+            map.MapProvider = GMapProviders.OpenStreetMap;
             map.Position = new GMap.NET.PointLatLng(40.288120643919974, 30.12300999552497);
-            map.Zoom = 3;
-            map.MinZoom = 4;
+            map.MinZoom = 5;
             map.MaxZoom = 18;
+            map.Zoom = 10;
             map.ShowCenter = false;
             map.Overlays.Add(katman);
 
@@ -94,7 +94,7 @@ namespace CBS
         private void Form1_FormClosed(object sender, FormClosedEventArgs e)
         {
             map.Dispose();
-            Application.Exit();
+            //Application.Exit();
 
         }
 
@@ -132,6 +132,26 @@ namespace CBS
 
 
             }
+        }
+
+        private void btnLoadList_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnLoad_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtBoy_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtEn_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
